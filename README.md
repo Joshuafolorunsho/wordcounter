@@ -7,7 +7,7 @@ This repository hosts the wordcounter application. Contributions are welcome.
 - Fork the repository, clone and make sure you are not working on the `master branch`
 
 ```bash
-git clone https://github.com/{your-github-username}/to-do-list.git
+git clone https://github.com/{your-github-username}/wordcounter.git
 ```
 
 ```bash
